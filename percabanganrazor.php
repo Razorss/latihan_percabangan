@@ -12,10 +12,10 @@ $ba = 170;
 $c = 210;
 $d = 250;
 
-$kalian1 = $x * $d; //30 x 250
+$kalian1 = $x * $d;   	//30 x 250
 $kalian2 = $x * $c;	//30 x 210
 $kalian3 = $x * $b;	//30 x 150
-$kalian4 = $x * $ba;//30 x 170
+$kalian4 = $x * $ba; 	//30 x 170
 
 $total = $kalian2 + $kalian3 + $kalian1; 
 
